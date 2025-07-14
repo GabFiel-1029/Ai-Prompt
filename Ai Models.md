@@ -24,4 +24,12 @@ Stable Diffusion
 
 MidJourney 
 <img width="882" height="493" alt="Capture11" src="https://github.com/user-attachments/assets/3422581b-6a31-4162-96c5-baf89e8beef7" />
+<img width="783" height="187" alt="Capture12" src="https://github.com/user-attachments/assets/fcdb37bd-048e-41fa-92ef-3cbe97faa88a" />
+
+
+DALL-E
+<img width="988" height="292" alt="Capture13" src="https://github.com/user-attachments/assets/fb47ad3b-7178-49fe-b80e-299df1751c39" />
+
+
+
 
