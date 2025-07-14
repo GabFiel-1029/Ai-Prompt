@@ -1,11 +1,14 @@
+#SAMPLE PROMPTING
 
-@@@Sample Prompt Templates@@
     Example 1: INSTRUCTION PROMPTING
 "Explain in simple terms how SQL Injection works, provide examples, and suggest 3 ways to defend against it."
+
     Example 2: ROLE PLAYING (Blue Team Lead)
 "Act as a cybersecurity Blue Team leader. Explain to a junior analyst how to identify and respond to a ransomware attack within an enterprise environment."
+
     Example 3: CREATIVE SCENARIO FOR TRAINING
-"Create a fictional cybersecurity breach incident for a banking company. Provide details of the breach, affected systems, and how the incident response team should act."   
+"Create a fictional cybersecurity breach incident for a banking company. Provide details of the breach, affected systems, and how the incident response team should act."
+
     Example 4: COMPERATIVE ANALYSIS 
 "Create a comparison table between common firewall vendors (Cisco ASA, Palo Alto, Fortinet) focusing on their strengths, weaknesses, and best cybersecurity use cases."
 
