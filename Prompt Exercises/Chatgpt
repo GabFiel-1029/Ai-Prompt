@@ -1,0 +1,41 @@
+!Instructions!
+✅ AI Role (Who is ChatGPT pretending to be?)
+✅ Output Format (Bullet list, table, report, etc.)
+✅ Depth / Complexity (Basic overview, technical detail, industry-standard frameworks)
+✅ Intended Audience (Executive, IT team, public awareness)
+
+First Exercise:
+Write a prompt asking ChatGPT to explain the importance of strong passwords to a non-technical audience in less than 300 words.
+Challenge: Improve the basic prompt by specifying:
+           Audience: Elderly people unfamiliar with cybersecurity
+           Output format: Step-by-step tips + examples
+           Tone: Friendly and simple
+
+Second Exercise:
+Write a prompt asking ChatGPT to compare different types of malware (e.g., ransomware, spyware, trojans).
+Challenge: Refine your prompt by asking for:
+           Output as a comparison table
+           Columns: Description, Attack Method, Real-world Example, Prevention
+           Target audience: Junior SOC Analyst
+
+Third Exercise:
+Write a prompt where ChatGPT needs to help analyze suspicious network traffic logs for potential indicators of compromise (IOC).
+Assume ChatGPT is a Senior Incident Response Analyst
+Ask for output in structured steps:
+           Key patterns to look for
+           Common mistakes in analysis
+           Recommended tools (with brief description)
+
+
+
+!!!!!!TO CHECK IF YOUR PROMPT IS ALL CORRECT!!!!!!!!
+@@ Copy to new chat @@
+*You are acting as a Senior Prompting Engineer
+with over 50 years of experience specializing 
+in evaluating AI prompt quality for educational purposes. 
+Your task is to carefully evaluate a student-submitted AI prompt 
+based on whether it meets the following 5 key criteria for good prompting*
+
+THEN SEND YOUR PROMPT TO BE CHECKED!
+https://www.ibelieve.com
+
