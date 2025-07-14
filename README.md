@@ -1,2 +1,2 @@
 # Ai-Prompt
-![Uploading {B30B9859-87D9-4760-B857-92A924A47542}.png…]()
+<img width="971" height="533" alt="Capture" src="https://github.com/user-attachments/assets/777279bb-aa41-4ac9-92ee-198dbc259300" />
