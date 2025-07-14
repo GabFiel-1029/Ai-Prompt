@@ -1,4 +1,12 @@
- @@@Sample Prompt Templates@@
+<img width="783" height="294" alt="Capture4" src="https://github.com/user-attachments/assets/e7fd1723-9243-4c35-a12d-c1db06227271" />
+
+
+
+
+
+
+
+@@@Sample Prompt Templates@@
     Example 1: INSTRUCTION PROMPTING
 "Explain in simple terms how SQL Injection works, provide examples, and suggest 3 ways to defend against it."
     Example 2: ROLE PLAYING (Blue Team Lead)
@@ -7,3 +15,4 @@
 "Create a fictional cybersecurity breach incident for a banking company. Provide details of the breach, affected systems, and how the incident response team should act."   
     Example 4: COMPERATIVE ANALYSIS 
 "Create a comparison table between common firewall vendors (Cisco ASA, Palo Alto, Fortinet) focusing on their strengths, weaknesses, and best cybersecurity use cases."
+
