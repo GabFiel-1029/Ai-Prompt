@@ -6,3 +6,7 @@ ChatGpt
 Claude Ai
 <img width="822" height="256" alt="Capture5" src="https://github.com/user-attachments/assets/920cf8be-c7ce-49ce-8325-69f7903bbc36" />
 
+DeepSeek
+<img width="799" height="280" alt="Capture6" src="https://github.com/user-attachments/assets/b7ab3e61-a444-4004-98f0-c808cd887b6f" />
+<img width="814" height="250" alt="image" src="https://github.com/user-attachments/assets/19024d2d-5ce6-4283-81cf-beb97c95bae9" />
+<img width="784" height="153" alt="Capture7" src="https://github.com/user-attachments/assets/49c9f110-1352-43a8-b801-d5e77e98d094" />
