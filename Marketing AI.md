@@ -11,13 +11,11 @@ Rewrite for a target audience
 Analyze competitors
 Create content strategie
 
+!!! FOLLOW THIS FORMULA !!!
 [Role of AI] + [Task Description] + [Target Audience] + [Tone of Voice] + [Specific Instructions or Goals]  
 
-
-
-
-
 #SAMPLE PROMPT#
+
 ✅ Blog Article Creation
 Prompt:
 You are an experienced SaaS content marketer. Write a detailed, SEO-optimized blog post (1500 words) about "Why Project Management Software is Essential for Remote Teams."
