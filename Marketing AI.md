@@ -12,37 +12,47 @@ Analyze competitors
 Create content strategie
 
 !!! FOLLOW THIS FORMULA !!!
+
 [Role of AI] + [Task Description] + [Target Audience] + [Tone of Voice] + [Specific Instructions or Goals]  
 
 #SAMPLE PROMPT#
 
 ✅ Blog Article Creation
+
 Prompt:
-You are an experienced SaaS content marketer. Write a detailed, SEO-optimized blog post (1500 words) about "Why Project Management Software is Essential for Remote Teams."
-Target audience: Small to Medium Business Owners, Remote Teams, Team Leaders
-Tone: Professional yet friendly, informative, and practical.
-Structure: Use H1, H2, H3 headings, bullet points, examples, and include a brief introduction and conclusion with a CTA to try our free trial.
+You are an experienced content writer for [industry]. Write a detailed, SEO-optimized blog post about [topic].  
+Audience: [describe audience, e.g., startup owners, marketers, tech professionals]  
+Tone: [professional, conversational, thought-leader, educational, etc.]  
+Format: Include [word count] words, use H1, H2, bullet points, examples, and a conclusion with a CTA to [desired action].  
+Objective: [brand awareness, lead generation, education]  
+Keywords: [optional, list keywords if needed]  
+
 
 ✅ Email Marketing Campaign
+
 Prompt:
-You are a marketing copywriter creating a 3-part email sequence to promote a free trial of a project management tool.
-Audience: Managers of remote teams in tech startups.
-Tone: Conversational, helpful, slightly persuasive but not pushy.
-1st Email: Introduction of pain points in managing remote teams.
-2nd Email: Showcase benefits and features of the software.
-3rd Email: Encourage action with limited-time offer.
-Provide subject lines and email body copy.
+You are a B2B email marketing expert. Write a [number]-step email sequence promoting [product/service] to [audience]. 
+Tone: [tone]
+Objective: [sign-ups, bookings, purchases]
+Include subject lines and body text.
+
 
 ✅ Social Media Posts
+
 Prompt:
-Act as a social media strategist. Create 5 LinkedIn posts that highlight common remote work challenges and how project management tools solve them.
-Audience: Startup founders, team leads, and HR managers.
-Tone: Thought-leadership, relatable, actionable tips.
-Each post should have a catchy opening, a value-driven message, and a subtle CTA to visit our website.
+You are a social media strategist. Write [number] posts for [platform] to promote [topic or product]. 
+Audience: [audience]
+Tone: [tone]
+Objective: [engagement, website visits, leads]
+Each post should include a catchy hook, main message, and CTA.
 
 ✅ Ad Copy for Google or Meta Ads
+
 Prompt:
-Write 5 variations of ad copy for Facebook ads promoting a Project Management SaaS for remote teams.
-Objective: Lead generation through free trials.
-Tone: Clear, concise, benefit-driven.
-Length: Short headline, one-liner description, strong CTA.
+You are a skilled advertising copywriter. Write [number] variations of ad copy for [platform] promoting [product/service].  
+Audience: [describe audience, e.g., busy managers, freelancers, HR professionals]  
+Tone: [direct, benefit-driven, clear, engaging]  
+Objective: [lead generation, sales, sign-ups]  
+Length: Short headlines, 1-2 sentence body, with strong CTA.  
+Optional: Include different angles (problem-solution, benefit-focus, urgency, curiosity).  
+
