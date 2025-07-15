@@ -4,6 +4,7 @@
 
 
 SELL, ENGAGE, EDUCATE CAPTURE LEADS
+
 Generate ideas
 Write copy
 Rewrite for a target audience
