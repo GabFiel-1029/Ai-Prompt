@@ -21,29 +21,29 @@ Scene → Visual Elements → Motion → Style → Mood / Genre
 !!PROMPT FORMULA FOR VIDEO!!
 <u>Scene (What & Where) + Visual Details (Lighting, Objects) + Camera Movement + Action (if any) + Artistic Style + Mood<u>
 
--------------------------------------|
-*Scene (What & Where):               | A slow cinematic pan inside a futuristic cybersecurity operations center
--------------------------------------|
-*Visual Details (Lighting, Objects): | with glowing neon monitors displaying streams of encrypted code, holographic interfaces floating in mid-air, and cybersecurity analysts in dark clothing typing rapidly  
--------------------------------------|
-*Visual Details (Lighting, Objects): | The environment is illuminated with soft blue and purple neon lighting, giving it a cyberpunk aesthetic
--------------------------------------|
-*Scene (What & Where):               | Outside the glass walls, a futuristic city skyline glows with tall skyscrapers and flying cars in the night sky
--------------------------------------|
-*Visual Details (Lighting, Objects): | Depth of field effect with sharp focus on the foreground and blurred background city lights
--------------------------------------|
-*Camera Movement:                    | The camera moves smoothly across the room
--------------------------------------|
-*Action (if any):                    | cybersecurity analysts typing rapidly
--------------------------------------|
-*Artistic Style:                     | Cinematic lighting, realistic details
--------------------------------------|
-*Mood:                               | Slightly moody tone, cyberpunk, futuristic atmosphere
--------------------------------------|
-*Scene Detail:                       | 16:9 aspect ratio
--------------------------------------|
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Scene (What & Where):               | A slow cinematic pan inside a futuristic cybersecurity operations center                                                                                                   |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Visual Details (Lighting, Objects): | with glowing neon monitors displaying streams of encrypted code, holographic interfaces floating in mid-air, and cybersecurity analysts in dark clothing typing rapidly    |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Visual Details (Lighting, Objects): | The environment is illuminated with soft blue and purple neon lighting, giving it a cyberpunk aesthetic                                                                    |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Scene (What & Where):               | Outside the glass walls, a futuristic city skyline glows with tall skyscrapers and flying cars in the night sky                                                            |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Visual Details (Lighting, Objects): | Depth of field effect with sharp focus on the foreground and blurred background city lights                                                                                |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Camera Movement:                    | The camera moves smoothly across the room                                                                                                                                  |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Action (if any):                    | cybersecurity analysts typing rapidly                                                                                                                                      |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Artistic Style:                     | Cinematic lighting, realistic details                                                                                                                                      |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Mood:                               | Slightly moody tone, cyberpunk, futuristic atmosphere                                                                                                                      |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+*Scene Detail:                       | 16:9 aspect ratio                                                                                                                                                          |
+-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-SAMPLES!
+##SAMPLE PROMPT##
 |*Corporate Cybersecurity Awareness Video*
 A slow zoom-in on a serious cybersecurity expert sitting in a modern glass-walled office surrounded by
 floating data visualizations and large digital maps of global cyber threats. Cool-toned lighting, clean tech
