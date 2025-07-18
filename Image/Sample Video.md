@@ -8,4 +8,7 @@ professional look. Cinematic lighting, realistic details, slightly moody tone, 1
 
 https://github.com/user-attachments/assets/52f2b34f-ea90-43ba-a120-83fab61ad655
 
-https://github.com/user-attachments/assets/fc62730a-8033-4a60-80f3-2c48d5689068
+A short, cinematic 16:9 video of a humorous Filipino "tito" (uncle) type character. He’s wearing a slightly wrinkled office polo shirt or barong tagalog, standing in front of a small office server rack or messy network cables. He looks both confused and determined. He squints at the Ethernet cables, scratches his head, then randomly starts plugging and unplugging wires. The lights flicker, and he panics but pretends he knows what he's doing. Cut to a scene where he proudly says, “Ayos na 'yan!” then the whole office blackout then smokes comes out from server rack. Comedic timing, subtle background office chaos, and relatable IT or cybersecurity struggle vibes.
+
+https://github.com/user-attachments/assets/f3190e4b-3bc6-48bf-8c2e-490357633bdd
+
