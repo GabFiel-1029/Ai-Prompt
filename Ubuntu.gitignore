@@ -1,4 +1,4 @@
-!!Python Environment Setup!!
+!!Python Environment Setup!!.gitignore
 bash# Update system
 sudo apt update && sudo apt upgrade -y
 
